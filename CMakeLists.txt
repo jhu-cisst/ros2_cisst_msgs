@@ -23,7 +23,7 @@ rosidl_generate_interfaces (cisst_msgs
   "msg/CartesianImpedanceGains.msg"
   "msg/DoubleVec.msg"
   "msg/IntervalStatistics.msg"
-  "srv/QueryForwardKinematics.srv"
+  "srv/ConvertFloat64Array.srv"
   DEPENDENCIES builtin_interfaces std_msgs sensor_msgs geometry_msgs
   )
 
