@@ -20,7 +20,6 @@ find_package (rosidl_default_generators REQUIRED)
 
 rosidl_generate_interfaces (cisst_msgs
   "msg/BoolStamped.msg"
-  "msg/CartesianImpedanceGains.msg"
   "msg/DoubleVec.msg"
   "msg/IntervalStatistics.msg"
   "srv/ConvertFloat64Array.srv"
