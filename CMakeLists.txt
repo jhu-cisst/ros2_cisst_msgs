@@ -1,5 +1,5 @@
 cmake_minimum_required (VERSION 3.10)
-project (cisst_msgs VERSION 1.0.0)
+project (cisst_msgs VERSION 2.1.0)
 
 if (NOT CMAKE_C_STANDARD)
   set (CMAKE_C_STANDARD 99)
